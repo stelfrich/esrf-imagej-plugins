@@ -5,6 +5,7 @@
 //
 // Test version
 // 
+package eu.esrf;
 
 import ij.*;
 import ij.plugin.PlugIn;
