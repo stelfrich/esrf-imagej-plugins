@@ -13,7 +13,7 @@
 	</parent>
 
 	<groupId>eu.esrf</groupId>
-	<artifactId>esrf-imagej-plugins</artifactId>
+	<artifactId>esrf-imagej-plugins_</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
 	<name>ESRF ImageJ Plugins</name>
