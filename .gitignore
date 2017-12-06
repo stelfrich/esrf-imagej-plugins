@@ -2,3 +2,15 @@
 *.jar
 bin/
 TestData/
+
+# Maven #
+/target/
+
+# Eclipse #
+/.classpath
+/.project
+/.settings/
+
+# IntelliJ #
+/.idea/
+/*.iml
